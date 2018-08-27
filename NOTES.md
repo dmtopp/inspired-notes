@@ -111,3 +111,39 @@ https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507
 ## CH 12
 
 + Everything in this chapter is great
+
+## CH 13
+
++ Product marketing is like a go-between between sales and product?
++ They understand the market and the best way to sell a product
+
+## CH 14
+
++ Product needs to be present at user insight/testing (no telephone game!)
++ Product manager is not responsible for testing beyond making sure AC is met
+
+## CH 15
+
++ Jane Manning of Google's AdWords
++ Met with concerns from other departments, found ways to understand(!!) and address all of them
++ Did not (?) come up with the original product idea
++ AdWords made a f***-ton of money
+
+## CH 16
+
++ Leadership gets good people in the right positions
++ Know the whole product, connect the dots between teams
++ 3 lead roles (head of product, design, tech) need to work together
++ He recommends they sit together (!)
+
+## CH 17
++ Developing products is different than developing people
++ VP product && CEO need to complement in terms of vision/execution -- can't both have strong vision or weak vision
+
+## CH 18
+
++ CTO enables more things to be possible with tech
++ Reduce tech debt
++ Lead eng organization, develop careers, retain engineers
++ Make sure architecture is conducive to innovation
++ *Needs* to be involved in product discovery
