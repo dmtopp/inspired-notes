@@ -147,3 +147,86 @@ https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507
 + Lead eng organization, develop careers, retain engineers
 + Make sure architecture is conducive to innovation
 + *Needs* to be involved in product discovery
+
+## CH 19
+
++ Delivery manager is like a PM that only removes obstacles
++ Specializes in cross-team dependencies
+
+## CH 20
+
++ No recipe for splitting a product across teams, learn the tradeoffs and weigh your options
++ Minimize dependencies, empower teams, make sure splits are aligned with the architecture, the business, and the roadmap, consider splitting teams by user base if applicable
++ Must continuously evaluate and improve
++ Tradeoff team autonomy for teams being able to use shared tech -- the more of a foundation a team has to build on top of the less autonomous they are
+
+## CH 21
+
++ Lea Hickman drove the change from Adobe CC being purchased software to subscription-based
++ Had a clear vision, built a f***-ton of prototypes, over-communicated to everyone to sell her vision
++ Had to work very closely with CTO
++ Knew the market was changing -- how?  
++ Successful large tech companies disrupt themselves before they get stale to keep innovation moving
+
+## CH 22
+
++ More than half of ideas won't work
+  + Not valuable enough for customers to adopt
+  + Not usable
+  + Not realistically build-able
+  + Business constraints (legal, etc.)
++ The ones that do work will take several iterations
++ The problem with roadmaps is that they are viewed as commitments
++ Find the risks early by doing discovery, prototyping
++ Solve the actual problem
+
+## CH 23
+
++ Alternatives to roadmaps need to
+  1. Prioritize highest value things first
+  2. Make date-based commitments when necessary so the business can run
++ You gotta know your *business context* and larger company strategy
++ Management needs to provide teams with "business objectives" i.e. problems to solve
++ Some people put problems that need solving on their roadmaps instead of features -- that is rad
++ Do discovery *before* committing to dates -- ensure that the solution will work and solve the problem.  Build prototypes, iterate, talk to customers, all that stuff
+
+## CH 24
+
++ Product vision is broader than individual features, one vision for the whole company
++ Product strategy provides focus on one area or market and then a plan for moving forward (i.e. retailers first, then manufacturers)
++ Product strategy is a plan for realizing the product vision
+
+## CH 25
+
++ A product vision needs to be pretty ambitious, not something you know you can achieve
++ Should be high-level, focused on big problems, not specific solutions
++ Needs to take trends in the market into account, plan for the future
++ You gotta sell it
+
+## CH 26
+
++ Product strategy has to align with the business
++ Focus on the customers
++ You gotta sell it
+
+## CH 27
+
++ Product principles are statements about how you want to make products, i.e. "We will prioritize the needs of the rider because drivers want more riders"
+
+## Product Objectives Overview
+
++ Don't tell people how to solve problems, give them problems and let them innovate
++ Don't define success by feature release, define it by a problem solved
+
+## CH 28 (this is a good one)
+
++ Objectives should be qualitative, results quantitative
++ Key results should be business results, not feature lists
++ 1-3 objectives with 1-3 key results each, score results
++ Evaluate progress weekly (ish?)
++ Be clear about which results are high-integrity commitments
+
+## CH 29
+
++ Set OKRs at a product team level, not functional group or individual
++ Larger functional group initiatives should be prioritized at a high level along with other business objectives
