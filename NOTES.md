@@ -230,3 +230,36 @@ https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507
 
 + Set OKRs at a product team level, not functional group or individual
 + Larger functional group initiatives should be prioritized at a high level along with other business objectives
+
+## Product At Scale Overview
+
++ Startups or companies with small numbers of engineers can sometimes get by without product vision/strategy but they are essential to scale
+
+## CH 30
+
++ When you scale, leadership needs to coordinate OKRs across teams to make sure objectives are aligned
+
+## CH 31
+
++ You gotta sell your product and the value it contributes.  Show, don't tell, share learnings/credit, give great demos, be an expert, be stoked about it
+
+## CH 32
+
++ Alex Pressland saw value in a product idea, did a prototype, sold the value based on the results, and changed the course of a big 'ol company
+
+## Product Discovery Overview
+
++ Moving fast and getting feedback can be at odds with releasing maintainable/scalable software
++ Discovery is important so that we know the things we build solve actual problems
++ Talk to your users *before* starting development
+
+## CH 33
+
++ Discovery addresses four risks (see ch. 7)
++ There needs to be data! No *feelings*
++ Customers don't know what they want (I've been saying this yay me!)
++ Have to validate ideas on actual customers (don't guess what the customer will do)
++ What is the value to be provided?
++ Eng/Design/Product all need to be involved in discovery
++ Share knowledge!
++ Discovery can have iterations, strong teams can do 10-20/week
